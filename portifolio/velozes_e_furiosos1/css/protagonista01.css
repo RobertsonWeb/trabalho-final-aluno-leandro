@@ -1,0 +1,11 @@
+li{
+    background: rgb(236, 232, 232);
+ 
+    text-align: left;
+    font-size: 23px;
+    border: 0px;
+    border-bottom: 5px solid #c7c426;
+    border-radius: 5px 5px 35px  0px;
+    box-shadow: 5px 5px 15px -8px #466fa3;
+}
+

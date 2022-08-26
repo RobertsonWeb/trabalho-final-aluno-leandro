@@ -1,0 +1,31 @@
+body{
+    background-color: #b0b487;
+    color: #a12f2f; 
+    font-family: 'IM Fell English', serif;
+}
+
+h1, h2{
+
+    color: #d90404;
+    text-shadow: 4px 1px 2px #f0f2f5;
+    border: #0704d9;
+}
+
+a:hover {
+    background-color: #9e2323;
+    border-bottom: solid 1px #ffffff;
+    border-right: solid 1px #ffffff;
+    color: #ffffff;
+}
+
+div{
+    text-align: center;
+}
+
+ 
+    
+
+
+
+
+   
